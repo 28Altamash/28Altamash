@@ -10,9 +10,9 @@ GitHub - https://github.com/28Altamash
 
 EDUCATION 
 
-    Rani Channamma University, Basaveshwar Science College                        2018 - 2021 
+    Rani Channamma University, Basaveshwar Science College                        2017 - 2021 
 
-Bachelor’s in Computer Applications 
+Bachelor’s in Computer Science Engineering
 
     Loyalist College of Applied Arts and Science, Belleville, ON                         2022 - 2023 
 
