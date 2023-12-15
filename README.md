@@ -10,7 +10,7 @@ GitHub - https://github.com/28Altamash
 
 EDUCATION 
 
-    Rani Channamma University, Basaveshwar Science College                        2017 - 2021 
+    Sir M Visvesvaraya technology university, Basaveshwar Enginnering College                        2017 - 2020
 
 Bachelor’s in Computer Science Engineering
 
