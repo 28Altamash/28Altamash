@@ -30,9 +30,9 @@ landscape. My internship was a transformative experience that solidified my pass
 cybersecurity and prepared me to tackle future challenges in the field.
 
 
-Threat Analyst June 2021 - July 2022
-Cisco India, Bangalore
-Project: Saudi Aramco Smart city
+Threat Analyst June 2020- July 2022
+Wipro Bangalore
+Project: Cisco's Saudi Aramco Smart city
 • Conducted engineering analysis and risk assessments for network infrastructure projects, 
 focusing on security and cybersecurity implications to ensure robust and resilient systems.
 • Performed statistical and mathematical analyses on network data using MATLAB and other 
@@ -66,6 +66,21 @@ damage
 • Created documentation for security policies
 • Successfully Breached the Antivirus and reported to the Antivirus Corp.
 • Documented a bounty Report 
+
+FleetOperate, Cambridge, ON
+System & Cloud Engineer June 2024 – Current
+• Azure Security Operations: Administered and monitored Microsoft Azure environments with a focus on implementing
+and managing Azure Security XDR solutions. Enhanced threat detection and response capabilities across multi-cloud
+environments.
+• Threat Analysis & Mitigation: Conducted in-depth analysis of security events using Azure Defender and Azure Sentinel,
+identifying threats and mitigating risks effectively.
+• Incident Response: Led security incident investigations, coordinating with internal teams to resolve issues expediently
+and ensure minimal business impact.
+• Led office relocation projects, ensuring seamless IT asset migration and minimal business disruption.
+• Managed IT asset lifecycle, including inventory tracking, cost optimization, and compliance audits.
+• Conducted Azure and AWS security operations, enhancing cloud security architecture.
+• Provided on-site technical support for hardware, software, and network-related issues.
+• Created and maintained comprehensive technical documentation, including SOPs and user guides
 
 PROJECT EXPERIENCE 
 
