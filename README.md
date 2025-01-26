@@ -4,7 +4,7 @@
 
     System & Cloud Engineer at FleetOperate, focused on Azure security operations, threat analysis, and governance.
     Security Engineer Intern at Algoma Children's Hospital, where I contributed to incident management, firewall configuration, and vulnerability assessments.
-    Former Network Security Engineer at Wipro, specializing in incident analysis and risk mitigation for high-profile projects like Cisco's Saudi Aramco Smart City.
+    Former Network Security Engineer at Cisco, specializing in incident analysis and risk mitigation for high-profile projects like Cisco's Saudi Aramco Smart City.
 
 🎓 Education:
 
