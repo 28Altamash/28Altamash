@@ -8,9 +8,7 @@
 
 🎓 Education:
 
-    Post-graduate in Cybersecurity (Cambrian College)
-    Post-graduate in Artificial Intelligence (Loyalist College)
-    Bachelor's in Computer Science (Rani Channamma University)
+National Institute of Technology (B.E Cs)
 
 ⚙️ Skills:
 
