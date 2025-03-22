@@ -1,4 +1,4 @@
-👋 Hi, I'm Altamash Karlekar – a passionate Cybersecurity Engineer and Cloud Specialist with expertise in IT security, incident management, and artificial intelligence.
+👋 Hi, I'm Altamash Karlekar – a passionate Network and Cybersecurity Engineer and Cloud Specialist with expertise in IT security, incident management, and artificial intelligence.
 
 💼 Work Experience:
 
