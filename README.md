@@ -8,7 +8,7 @@
 
 🎓 Education:
 
-National Institute of Technology (B.E Cs)
+Bachelor's in Computer Science
 
 ⚙️ Skills:
 
